@@ -1,10 +1,10 @@
 Catalog
 =================
 
-   * [WeChatChannel测试程序](#WeChatChannel测试程序)
+   * [WeChatChannel下载器](#WeChatChannel下载器)
       
       
-# WeChatChannel测试程序
+# WeChatChannel下载器
 下载微信视频号里面的指定视频
 
 ## 原理
