@@ -9,6 +9,7 @@ Catalog
 
 ## 原理
 直接下载的MP4文件会将前面20000h字节和固定的key做异或</br>
+如何获得视频URL就靠抓包了</br>
 <img height="240" src="https://github.com/KingsleyYau/WeChatChannelsDownloader/blob/master/res.png?raw=true"/>
 
 ## Compile and Run
